@@ -1,0 +1,14 @@
+.Form-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+input{
+    margin: 1.5rem;
+}
+
+button{
+
+}

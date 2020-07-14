@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.Showbtn{
+  font-size: 1.5rem;
+  color: red;
+  margin: 2rem;
+  padding: .5rem;
+}
